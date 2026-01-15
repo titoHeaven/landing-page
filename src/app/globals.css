@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-onyx: #0A0F0D;
+  --color-teal: #3CBBB1;
+  --color-silver: #C4CBCA;
+  --color-amethyst: #2A1E5C;
+  --font-geologica: "Geologica", sans-serif;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  /* background-color: white; */
+}
