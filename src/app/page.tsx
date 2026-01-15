@@ -67,6 +67,20 @@ export default function Home() {
                 </p>
               </div>
             </div>      
+            <div className="flex w-full h-60 border rounded-2xl overflow-hidden bg-white">
+              <div className="w-60 h-full">
+                <img src="images/kiosk.png" alt="" className="w-full h-full object-cover"
+                />
+              </div>
+              <div className="flex flex-col justify-center p-6 text-left">
+                <h3 className="text-2xl font-bold text-amethyst">
+                  Citizen’s Charter Information Kiosk
+                </h3>
+                <p className="text-gray-600 mt-2">
+                  A kiosk-based display that provides easy access to Citizen’s Charter information.
+                </p>
+              </div>
+            </div>      
           </div>
         </div>
       </div>
